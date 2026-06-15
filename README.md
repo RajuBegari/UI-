@@ -1,5 +1,8 @@
 # HSR Motors Lead Management System
 
+## Figma Prototype
+https://www.figma.com/design/lbv6lRbAd17TWiuea7k5AH/HSR-Motors-Lead-Management-System?node-id=0-1&p=f&t=Xp76lbAIRbvIt2Hv-0
+
 ## Project Overview
 This UI/UX project was designed in Figma for HSR Motors to replace spreadsheet-based lead tracking with a modern lead management system.
 
